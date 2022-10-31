@@ -1,9 +1,9 @@
 # Tailwind NextJS Starter
-> Quick start template
+> NextJS and TailwindCSS quick start template
 
 ## Description
 
-Quick start template with Next [nextjs.org](https://nextjs.org/) and Tailwind [tailwindcss.com](https://tailwindcss.com/)
+Quick start template with Next [nextjs.org](https://nextjs.org/) and Tailwind [tailwindcss.com](https://tailwindcss.com/) installed.
 
 ### Getting Started
 
