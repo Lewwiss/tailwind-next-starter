@@ -1,5 +1,3 @@
-<img src="./.github/showcase.png" />
-
 # Tailwind NextJS Starter
 > Quick start template
 
